@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Michael Allen](logo.svg 'Title')
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikevocalz&count_private=true)](https://github.com/mikevocalz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikevocalz&layout=compact)](https://github.com/mikevocalz/github-readme-stats)
